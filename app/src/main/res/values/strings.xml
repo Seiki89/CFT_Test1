@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestCFT</string>
+    <string name="input">Enter the first digits of a card</string>
+    <string name="CARD_NUMBER">CARD NUMBER</string>
+    <string name="LENGTH">Lenght:</string>
+    <string name="LUHN">Luhn:</string>
+    <string name="BANK">BANK</string>
+    <string name="SCHEME_NETWORK">Scheme-network:</string>
+    <string name="TYPE">Type:</string>
+    <string name="BRAND">Brand:</string>
+    <string name="PREPAID">Prepaid:</string>
+    <string name="COUNTRY">COUNTRY</string>
+    <string name="latitude">latitude:</string>
+    <string name="longitude">longitude:</string>
+    <string name="request_history">Request history</string>
+</resources>
